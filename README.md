@@ -9,7 +9,7 @@ The first data were harvested at 1:30pm April 20st, 2022 while the second were h
 ## Map Comparison
 ![Map 1](img/lab2_map1.png)    
 ![Map 2](img/lab2_map2.png)    
-Map 1 and Map 2 appear to be very similar. One slight difference in the two maps is that the areas where there is a high density of geo-tagged tweets seem to be slightly more dense on Map 2 than Map 1. Map 1 also appears to have some geo-tagged tweets in Canada while Map 2 has some geo-tagged tweets in Mexico, which is bound to happen due to the filtering by corner coordinates of the US. 
+Both maps were created with the intention of each blue bird icon representing a single tweet. Areas that contain more geo-tagged tweets will appear to be a dense array of bird icons. Map 1 and Map 2 appear to be very similar. One slight difference in the two maps is that the areas where there is a high density of geo-tagged tweets seem to be slightly more dense on Map 2 than Map 1. Map 1 also appears to have some geo-tagged tweets in Canada while Map 2 has some geo-tagged tweets in Mexico, which is bound to happen due to the filtering by corner coordinates of the US. 
 
 ## Word Cloud Comparison
 ![Word Cloud 1](img/lab2_wordcloud1.png)    
